@@ -1,4 +1,4 @@
-# SEMTM0016 — DungeonMaze World
+# SEMTM0016 — DungeonMaze World, my assignment for the Artificial Intelligence for Robotics Module.
 
 A reinforcement learning assignment built on a custom Gymnasium maze environment. Three tasks are implemented end-to-end: supervised species classification (Task 1), unsupervised behaviour clustering (Task 2), and reinforcement learning for navigation and combat (Task 3).
 
